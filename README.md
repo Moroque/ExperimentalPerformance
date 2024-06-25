@@ -39,3 +39,5 @@ This mod was made as a proof of concept to see if we could further optimize mine
 ### Thanks to  
 [LlamaLad7](https://github.com/LlamaLad7) - Large contribution to the ASM logic in order to make it much simpler with less overhead  
 [Fabric-ASM](https://github.com/Chocohead/Fabric-ASM) - Being a great example to help me build my own mixin based ASM tools
+[FxMorin](https://github.com/FxMorin) - Original maker of this mod
+[Moroque](https://github.com/Moroque) - Porting to 1.20(.1)
